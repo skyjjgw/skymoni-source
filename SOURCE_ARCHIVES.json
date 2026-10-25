@@ -1895,5 +1895,12 @@
     "bytes": 41029502,
     "sha256": "e2fd8cf5b7b57cc6968ac2133d2e4da723675a9fd2ad6ac14ddd1b3299fa6049",
     "url": "https://github.com/skyjjgw/skymoni-source/releases/download/skivu-mail-poster-20261024/source-skymoni-skivu-mail-poster-20261024.zip"
+  },
+  {
+    "name": "source-skymoni-homepage-announcement-20261025.zip",
+    "tag": "homepage-announcement-20261025",
+    "bytes": 41031627,
+    "sha256": "5d9d07650d8cb8454cf08a3b52bc94590653768e1e05ad9a781f97de6285088e",
+    "url": "https://github.com/skyjjgw/skymoni-source/releases/download/homepage-announcement-20261025/source-skymoni-homepage-announcement-20261025.zip"
   }
 ]
